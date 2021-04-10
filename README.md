@@ -1,8 +1,10 @@
 ### Hi there 👋
+I'm a teacher by profession, but I'm a full-time Full Stack developer. Degree in Computer Science, with good skills in mathematics, algorithms, and programming languages. I like to improve my skills and I always push myself the most.
 
 <p align="center">
 	<a href="https://github.com/franksiret"><img src="https://gpvc.arturio.dev/franksiret"></a> <!--Profile views-->
 	<a href="mailto:frank.siret@gmail.com"><img src="https://img.shields.io/badge/Contact_me-here-purple.svg"></a> <!--Contact-->
+	<a href="https://twitter.com/FrankSiret"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FFrankSiret"></a> <!--Twitter-->
 </p>
 
 <p align="center">
@@ -25,7 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <p align="center">
   <a href="https://github.com/franksiret/franksiret/issues">
     <img src="https://img.shields.io/github/issues/franksiret/franksiret"/> 
@@ -36,7 +37,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/franksiret/franksiret/stargazers">
     <img src="https://img.shields.io/github/stars/franksiret/franksiret"/> 
   </a>
-    <a href="https://github.com/franksiret/franksiret/LICENSE">
+    <!-- <a href="https://github.com/franksiret/franksiret/LICENSE">
     <img src="https://img.shields.io/github/license/franksiret/franksiret"/> 
-  </a>
+  </a> -->
 </p>
+
+<p align="center"><q>Choose a job you love and you will never have to work a day in your life.</q> <i>Confucius</i></p>
