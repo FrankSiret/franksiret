@@ -6,7 +6,7 @@ I'm a teacher by profession, but I'm a full-time Full Stack developer. Degree in
 	<a href="mailto:frank.siret@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Contact_me-here-red.svg"></a> <!--Contact-->
 </p>
 <div>
-	<span align="center">Visit me at:</span>
+	<p align="center">Visit me at:</p>
 	<p align="center">
 		<a href="https://twitter.com/FrankSiret"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-here-blue"></a> <!--Twitter-->
 		<a href="https://www.linkedin.com/in/frank-siret"><img alt="Linkedin URL" src="https://img.shields.io/badge/Linkedin-here-blue"></a> <!--Linkedin-->
