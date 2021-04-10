@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/franksiret/franksiret/issues">
     <img src="https://img.shields.io/github/issues/franksiret/franksiret"/> 
   </a>
@@ -37,9 +37,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/franksiret/franksiret/stargazers">
     <img src="https://img.shields.io/github/stars/franksiret/franksiret"/> 
   </a>
-    <!-- <a href="https://github.com/franksiret/franksiret/LICENSE">
+    <a href="https://github.com/franksiret/franksiret/LICENSE">
     <img src="https://img.shields.io/github/license/franksiret/franksiret"/> 
-  </a> -->
-</p>
+  </a>
+</p> -->
 
 <p align="center"><q>Choose a job you love and you will never have to work a day in your life.</q> <i>Confucius</i></p>
