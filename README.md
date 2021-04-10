@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/franksiret"><img src="https://gpvc.arturio.dev/franksiret"></a> <!--Profile views-->
-	<a href="mailto:guillermosiret@gmail.com"><img src="https://img.shields.io/badge/Contact_me-here-purple.svg"></a> <!--Contact-->
+	<a href="mailto:frank.siret@gmail.com"><img src="https://img.shields.io/badge/Contact_me-here-purple.svg"></a> <!--Contact-->
 </p>
 
 <p align="center">
