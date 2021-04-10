@@ -2,10 +2,16 @@
 I'm a teacher by profession, but I'm a full-time Full Stack developer. Degree in Computer Science, with good skills in mathematics, algorithms, and programming languages. I like to improve my skills and I always push myself the most.
 
 <p align="center">
-	<a href="https://github.com/franksiret"><img src="https://gpvc.arturio.dev/franksiret"></a> <!--Profile views-->
-	<a href="mailto:frank.siret@gmail.com"><img src="https://img.shields.io/badge/Contact_me-here-purple.svg"></a> <!--Contact-->
-	<a href="https://twitter.com/FrankSiret"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=Twitter&style=plastic&url=https%3A%2F%2Ftwitter.com%2FFrankSiret"></a> <!--Twitter-->
+	<a href="https://github.com/franksiret"><img alt="Github views"  src="https://gpvc.arturio.dev/franksiret"></a> <!--Profile views-->
+	<a href="mailto:frank.siret@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Contact_me-here-red.svg"></a> <!--Contact-->
 </p>
+<div>
+	<span align="center">Visit me at:</span>
+	<p align="center">
+		<a href="https://twitter.com/FrankSiret"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-here-blue"></a> <!--Twitter-->
+		<a href="https://www.linkedin.com/in/frank-siret"><img alt="Linkedin URL" src="https://img.shields.io/badge/Linkedin-here-blue"></a> <!--Linkedin-->
+	</p>
+</div>
 
 <p align="center">
 	<a href=""><img src="https://hacked-github-stat-trophies.vercel.app/?username=franksiret&column=4&title=AllSuperRank,MultiLanguage,Commit,Stars,Followers,PullRequest,Repositories,Issues&theme=monokai"></a><br><br> <!--Trophies-->
