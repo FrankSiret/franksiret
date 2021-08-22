@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a teacher by profession, but I'm a full-time Full Stack developer. Degree in Computer Science, with good skills in mathematics, algorithms, and programming languages. I like to improve my skills and I always push myself the most.
-📄 <a href="https://franksiret.github.io/resume-cv/">Resume CV</a>
+📄 <a target="_blank" href="https://franksiret.github.io/resume-cv/">Resume CV</a>
 
 <p align="center">
 	<a href="https://github.com/franksiret"><img alt="Github views"  src="https://gpvc.arturio.dev/franksiret"></a> <!--Profile views-->
