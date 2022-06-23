@@ -1,68 +1,63 @@
-### Hi there, I'm Frank Rodríguez Siret 👋
+Hi 👋 My name is Frank Rodríguez Siret
+======================================
 
-I'm a teacher by profession, but I'm a full-time Full Stack developer. Degree in Computer Science, with good skills in mathematics, algorithms, and programming languages. I like to improve my skills and I always push myself the most.
-📄 <a target="_blank" href="https://franksiret.github.io/resume-cv/">Resume CV</a>
-- 🌱 I’m currently learning new technologies
+Full-Stack Developer at PeopleWalking
+-------------------------------------
 
-<p align="center">
-	<a href="https://github.com/franksiret"><img alt="Github views"  src="https://gpvc.arturio.dev/franksiret"></a> <!--Profile views-->
-	<a href="mailto:frank.siret@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Contact_me-here-red.svg"></a> <!--Contact-->
+I'm a teacher by profession, but I'm a full-time Full Stack developer. Degree in Computer Science, with good skills in mathematics, algorithms, and programming languages. I constantly improve my skills and push myself the most.
+
+* 🌍  I'm based in Santiago de Cuba, Cuba
+* 🖥️  See my portfolio at [https://franksiret.github.io/resume-cv/](http://franksiret.github.io/resume-cv/)
+* ✉️  You can contact me at [frank.siret@gmail.com](mailto:frank.siret@gmail.com)
+* 🧠  I'm learning Spring Microservices
+* 🤝  I'm open to collaborating on Spring Boot and React JS Projects
+* ⚡  Choose a job you love and you will never have to work a day in your life.
+
+<a href="https://www.twitter.com/franksiret" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/franksiret?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"
+/></a><a href="https://www.github.com/franksiret" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/franksiret?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-<div>
-	<p align="center">Visit me at:</p>
-	<p align="center">
-		<a href="https://twitter.com/FrankSiret"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-here-blue"></a> <!--Twitter-->
-		<a href="https://www.linkedin.com/in/frank-siret"><img alt="Linkedin URL" src="https://img.shields.io/badge/Linkedin-here-blue"></a> <!--Linkedin-->
-	</p>
-</div>
 
-<p align="center">
- 	<a href=""><img src="https://hacked-github-stat-trophies.vercel.app/?username=franksiret&column=4&title=AllSuperRank,MultiLanguage,Commit,Stars,Followers,PullRequest,Repositories,Issues&theme=monokai"></a><br><br> <!-- Trophies -->
-<!-- 	<img src="https://github-readme-stats.vercel.app/api?username=franksiret&show_icons=true&locale=en&theme=monokai"><br> -->
-</p>
 
- 
-### Connect with me:
+### Socials
 
-[<img align="left" alt="franksiret | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="franksiret | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="franksiret | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="left"> <a href="https://www.github.com/franksiret" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/franksiret" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/frank-siret" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/11278974/franksiret" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/franksiret" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<br />
+--- 
 
-### Languages and Tools:
+### Badges
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Spring tool suite" width="26px" src="https://user-images.githubusercontent.com/19311256/89726919-c61ef800-da3d-11ea-868d-b33d9955dfcc.png" />
-<img align="left" alt="Spring boot" width="26px" src="https://user-images.githubusercontent.com/19311256/89726694-eef1be00-da3a-11ea-8551-a9e143ea0c5d.png" />
-<img align="left" alt="Hibernate" width="26px" src="https://user-images.githubusercontent.com/19311256/89726657-77bc2a00-da3a-11ea-844e-1ec652bc5410.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://user-images.githubusercontent.com/19311256/89726916-be5f5380-da3d-11ea-9fa1-108cc23b3945.png" />
-<img align="left" alt="Jquery" width="26px" src="https://user-images.githubusercontent.com/19311256/89726918-c28b7100-da3d-11ea-9e0a-b37f1e2527ea.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Eclipse" width="26px" src="https://user-images.githubusercontent.com/19311256/89726620-eea4f300-da39-11ea-8d26-8f1d68a2704a.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<b>My GitHub Stats</b>
 
-<br/>
-<br/>
+<a href="http://www.github.com/franksiret"><img src="https://github-readme-stats.vercel.app/api?username=franksiret&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="franksiret's GitHub stats" /></a>
 
----
+<a href="http://www.github.com/franksiret"><img src="https://github-readme-streak-stats.herokuapp.com/?user=franksiret&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<img align="left" alt="FrankSiret's Github Stats" src="https://github-readme-stats.vercel.app/api?username=franksiret&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franksiret)](https://github.com/anuraghazra/github-readme-stats)
-
-[website]: https://franksiret.github.io
-[twitter]: https://twitter.com/franksiret
-[instagram]: https://instagram.com/franksiret
-[linkedin]: https://linkedin.com/in/frank-siret
-
-<p align="center"><q>Choose a job you love and you will never have to work a day in your life.</q> <i>Confucius</i></p>
+<a href="https://github.com/franksiret" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franksiret&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
