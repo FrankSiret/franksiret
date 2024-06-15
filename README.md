@@ -4,13 +4,14 @@ Hi 👋 My name is Frank Rodríguez Siret
 Full-Stack Developer at PeopleWalking
 -------------------------------------
 
-I'm a teacher by profession, but I'm a full-time Full Stack developer. Degree in Computer Science, with good skills in mathematics, algorithms, and programming languages. I constantly improve my skills and push myself the most.
+I'm a teacher by profession, but I'm a full-time Full Stack developer with a Computer Science degree and good skills in mathematics, algorithms, and programming languages.
 
-* 🌍  I'm based in Santiago de Cuba, Cuba
+* 🌍  I'm based in Barcelona, Spain
 * 🖥️  See my portfolio at [https://franksiret.github.io/resume-cv/](http://franksiret.github.io/resume-cv/)
 * ✉️  You can contact me at [frank.siret@gmail.com](mailto:frank.siret@gmail.com)
-* 🧠  I'm learning Spring Microservices
+* 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on Spring Boot and React JS Projects
+* 🧑‍🎓  Currently studying for a Master of Engineering degree with a major in Computer Science
 * ⚡  Choose a job you love and you will never have to work a day in your life.
 
 <a href="https://www.twitter.com/franksiret" target="_blank" rel="noreferrer"><img
